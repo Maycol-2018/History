@@ -3,3 +3,5 @@ Se muestra un texto corto de una de las lineas de tiempo en la historia de **Col
 
 **Si la vida te da limones has limonada**
 
+<img src = "img/campo.jpg" width=400>
+
